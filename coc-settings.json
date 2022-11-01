@@ -65,6 +65,7 @@
   "D": "delete",
   "ma": "addFile",
   "mA": "addDirectory"
-}
+},
+"angular.enable-strict-mode-prompt": false
 
 }
